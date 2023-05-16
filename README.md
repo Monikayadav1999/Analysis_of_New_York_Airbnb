@@ -1,6 +1,6 @@
-# Analysis-of-New-York-Airbnb
+# Analysis of New York City Airbnb
 
-The "Analysis of New York City Airbnb" project is a comprehensive examination of Airbnb listings in the city. Using Tableau Prep and Advanced MS Excel, this analysis aims to uncover valuable insights about the Airbnb market in New York City.
+The "Analysis of New York Airbnb" project is a comprehensive examination of Airbnb listings in the city. Using Tableau Prep and Advanced MS Excel, this analysis aims to uncover valuable insights about the Airbnb market in New York City.
 
 Key objectives of the project include:
 
